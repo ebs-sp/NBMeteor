@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: me.khodayar.behrad.nbmeteor
+OpenIDE-Module-Localizing-Bundle: me/khodayar/behrad/nbmeteor/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
